@@ -1,3 +1,17 @@
+# GaiTalk
+model/
+open_jtalk_dic_utf_8-1.11/
+config/settings.json
+DirectML_LICENSE.txt
+DirectML.dll
+download-windows-x64.exe
+onnxruntime.dll
+README.txt
+VERSION
+voicevox_core.dll
+voicevox_core.h
+voicevox_core.lib
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
